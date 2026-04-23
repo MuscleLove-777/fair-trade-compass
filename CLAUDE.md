@@ -67,7 +67,8 @@
 6. `<section class="article-hero">` に背景画像
 7. `<article class="content">` に本文
 8. `<div class="article-footer">` に参考ソース
-9. 共通フッター
+9. **MuscleLove 無料広告カード**（`<footer class="site-footer">`の**直前**に `<section class="promo-musclelove">` ブロックを必ず入れる）
+10. 共通フッター
 
 ### index.html 更新
 - `ja/index.html` の `<div class="blog-grid">` 内を**最新3件**に保つ（新記事追加で古いカードを押し出す）
@@ -108,6 +109,48 @@ git push
 - Fair Trade USA: https://www.fairtradecertified.org/
 - FAO (国連食糧農業機関): https://www.fao.org/
 - Rainforest Alliance: https://www.rainforest-alliance.org/
+
+## MuscleLove 広告カード（必ず各記事の `<footer>` 直前に入れる）
+
+JA記事用:
+```html
+<section class="promo-musclelove">
+  <div class="container">
+    <div class="promo-card">
+      <div class="promo-icon">💪</div>
+      <div class="promo-body">
+        <div class="promo-eyebrow">PR · 運営メディア</div>
+        <h3>MuscleLove — 筋トレ・フィットネス情報ネットワーク</h3>
+        <p>格闘女子・フィジーク・アームレスリング・筋トレ飯など、40+サイトを展開するMuscleLoveも運営中。XとPatreonで限定コンテンツも配信しています。</p>
+      </div>
+      <div class="promo-cta">
+        <a class="btn-promo" href="https://x.com/MuscleGirlLove7" target="_blank" rel="noopener">X @MuscleGirlLove7</a>
+        <a class="btn-promo outline" href="https://www.patreon.com/MuscleLove" target="_blank" rel="noopener">Patreon</a>
+      </div>
+    </div>
+  </div>
+</section>
+```
+
+EN記事用:
+```html
+<section class="promo-musclelove">
+  <div class="container">
+    <div class="promo-card">
+      <div class="promo-icon">💪</div>
+      <div class="promo-body">
+        <div class="promo-eyebrow">SPONSORED · OUR NETWORK</div>
+        <h3>MuscleLove — Muscle Girls &amp; Fitness Media Hub</h3>
+        <p>We also run MuscleLove, a 40+ site network covering women's combat sports, physique, arm wrestling, and fitness nutrition. Follow us on X and Patreon for updates.</p>
+      </div>
+      <div class="promo-cta">
+        <a class="btn-promo" href="https://x.com/MuscleGirlLove7" target="_blank" rel="noopener">X @MuscleGirlLove7</a>
+        <a class="btn-promo outline" href="https://www.patreon.com/MuscleLove" target="_blank" rel="noopener">Patreon</a>
+      </div>
+    </div>
+  </div>
+</section>
+```
 
 ## NGリスト
 - 特定企業の誹謗中傷
