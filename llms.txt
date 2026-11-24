@@ -1,0 +1,23 @@
+# Fair Trade Compass | フェアトレード羅針盤
+
+> Fair Trade Compass — daily insights on fair trade producers, certification, products, and the ethical supply chain. フェアトレードの最新動向・生産者・認証・商品を日英2言語で発信する情報サイト。
+
+## Main Pages
+
+- [fair trade compass](https://musclelove-777.github.io/fair-trade-compass/): main page of Fair Trade Compass | フェアトレード羅針盤.
+- [ja](https://musclelove-777.github.io/fair-trade-compass/ja/): main page of Fair Trade Compass | フェアトレード羅針盤.
+- [en](https://musclelove-777.github.io/fair-trade-compass/en/): main page of Fair Trade Compass | フェアトレード羅針盤.
+
+## Articles (most recent)
+
+- [fairtrade strategy 2026 2028.html](https://musclelove-777.github.io/fair-trade-compass/ja/articles/2026-04-23-fairtrade-strategy-2026-2028.html): article on Fair Trade Compass | フェアトレード羅針盤.
+- [cocoa minimum price 2026.html](https://musclelove-777.github.io/fair-trade-compass/ja/articles/2026-04-23-cocoa-minimum-price-2026.html): article on Fair Trade Compass | フェアトレード羅針盤.
+- [un year woman farmer 2026.html](https://musclelove-777.github.io/fair-trade-compass/ja/articles/2026-04-23-un-year-woman-farmer-2026.html): article on Fair Trade Compass | フェアトレード羅針盤.
+- [fairtrade strategy 2026 2028.html](https://musclelove-777.github.io/fair-trade-compass/en/articles/2026-04-23-fairtrade-strategy-2026-2028.html): article on Fair Trade Compass | フェアトレード羅針盤.
+- [cocoa minimum price hike.html](https://musclelove-777.github.io/fair-trade-compass/en/articles/2026-04-23-cocoa-minimum-price-hike.html): article on Fair Trade Compass | フェアトレード羅針盤.
+- [un year woman farmer 2026.html](https://musclelove-777.github.io/fair-trade-compass/en/articles/2026-04-23-un-year-woman-farmer-2026.html): article on Fair Trade Compass | フェアトレード羅針盤.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/fair-trade-compass
